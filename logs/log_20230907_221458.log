@@ -1,0 +1,11 @@
+2023-09-07 22:14:58,757 - INFO - Data extracted from C:\Users\Narendra\OneDrive\Desktop\Dataspunk_TechnicalProject\scripts\..\data\../data/acme_data_enrollment.txt.
+2023-09-07 22:14:59,930 - INFO - Data successfully inserted into ../data/acme_data_enrollment.
+2023-09-07 22:14:59,930 - INFO - Data extracted from C:\Users\Narendra\OneDrive\Desktop\Dataspunk_TechnicalProject\scripts\..\data\../data/acme_data_medical_claims.txt.
+2023-09-07 22:15:01,583 - INFO - Data successfully inserted into ../data/acme_data_medical_claims.
+2023-09-07 22:15:01,584 - INFO - Data extracted from C:\Users\Narendra\OneDrive\Desktop\Dataspunk_TechnicalProject\scripts\..\data\../data/acme_data_pharmacy_claims.txt.
+2023-09-07 22:15:02,662 - INFO - Data successfully inserted into ../data/acme_data_pharmacy_claims.
+2023-09-07 22:15:02,663 - INFO - Data extracted from C:\Users\Narendra\OneDrive\Desktop\Dataspunk_TechnicalProject\scripts\..\data\../data/acme_data_providers.txt.
+2023-09-07 22:15:02,668 - INFO - Transformed provider names for ../data/acme_data_providers.txt.
+2023-09-07 22:15:02,670 - INFO - 10 duplicate rows removed.
+2023-09-07 22:15:03,910 - INFO - Data successfully inserted into ../data/acme_data_providers.
+2023-09-07 22:15:03,910 - INFO - Bulk insert completed.
